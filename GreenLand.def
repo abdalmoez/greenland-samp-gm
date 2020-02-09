@@ -1,0 +1,9 @@
+LIBRARY	"GreenLand"
+
+EXPORTS
+	Supports
+	Load
+	Unload
+	AmxLoad
+	AmxUnload
+	ProcessTick
